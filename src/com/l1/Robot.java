@@ -54,7 +54,7 @@ public class Robot {
      * @return y coordinate
      */
 
-    public int getY() {
+    private int getY() {
         return y;
     }
 
